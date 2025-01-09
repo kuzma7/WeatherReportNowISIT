@@ -45,6 +45,6 @@
 4. Добавьте API-ключ в файл `gradle.properties`
 
 ## Разработчики
-- [Даниил](https://github.com/Leefero)) — разработчик проекта. 
+- [Даниил](https://github.com/Leefero) — разработчик проекта. 
 - [Артем](https://github.com/ArtemGulaev) — разработчик проекта.
 - [Никита](https://github.com/kuzma7) — разработчик проекта.
