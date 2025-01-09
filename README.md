@@ -43,3 +43,8 @@
 3. Убедитесь, что у вас есть доступ к API OpenWeatherMap. Получите API-ключ [здесь](https://openweathermap.org/api).
 
 4. Добавьте API-ключ в файл `gradle.properties`
+
+## Разработчики
+- [Даниил](https://github.com/Leefero)) — разработчик проекта. 
+- [Артем](https://github.com/ArtemGulaev) — разработчик проекта.
+- [Никита](https://github.com/kuzma7) — разработчик проекта.
